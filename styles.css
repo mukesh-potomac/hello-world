@@ -1,22 +1,2 @@
-* {
-  margin:0px;
-  padding:0px;
-}
-
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
-}
-
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
-.hello{
-width:100%; height: 500px; background:#ff0000;
-}
 
 hi{height:100px; width:40px; color:#ff0000;}
